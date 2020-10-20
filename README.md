@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - 🔭 I'm back-end developer with dot.Net Core (C#) technology.
 - 🎓 Postgraduate course in data science
 
+![Profile views](https://ezekiel9m.github.io/)  <img src="https://img.shields.io/github/followers/Souravdey777?label=Follow" style=" float:left, margin-right:10px" />
 
 ## &#x1f4c8; GitHub Stats
 
