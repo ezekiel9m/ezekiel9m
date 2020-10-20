@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🎓 Postgraduate course in data science
 
 
-![Profile views](https://gpvc.arturio.dev/Souravdey777)
+![Profile views](https://gpvc.arturio.dev/Souravdey777?&link=https://ezekiel9m.github.io/)
 
 
 ## &#x1f4c8; GitHub Stats
