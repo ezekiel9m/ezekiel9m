@@ -15,6 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Hey, I'm Ezequiel! 👋🏾
+#### Hey, I'm Ezequiel! 👋🏾 [Bgstatic][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
 ## [![Twitter Badge](https://img.shields.io/badge/-@Ezequiel-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ezekiel_muxito)](https://twitter.com/ezekiel_muxito) [![Linkedin Badge](https://img.shields.io/badge/-Ezequiel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ezequiel-muxito/)](https://www.linkedin.com/in/ezequiel-muxito/) [![Gmail Badge](https://img.shields.io/badge/-ezequielmuxito@.tech-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ezequielmuxito@.tech)](mailto:ezequielmuxito@.tech)
+
+- 🔭 I'm back-end developer with dot.Net Core (C#) technology.
+- 🎓 Postgraduate course in data science
+
+
+## &#x1f4c8; GitHub Stats
+![L1cardo's github stats](https://github-readme-stats.vercel.app/api?username=L1cardo&show_icons=true)
+
+<a href="https://github.com/ezekiel9m/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezekiel9m&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
