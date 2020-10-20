@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 
 
 ## &#x1f4c8; GitHub Stats
-![L1cardo's github stats](https://github-readme-stats.vercel.app/api?username=L1cardo&show_icons=true)
 
 <a href="https://github.com/ezekiel9m/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezekiel9m&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
