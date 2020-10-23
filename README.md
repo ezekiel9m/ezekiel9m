@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## [![Twitter Badge](https://img.shields.io/badge/-@Ezequiel-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ezekiel_muxito)](https://twitter.com/ezekiel_muxito) [![Linkedin Badge](https://img.shields.io/badge/-Ezequiel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ezequiel-muxito/)](https://www.linkedin.com/in/ezequiel-muxito/) [![Gmail Badge](https://img.shields.io/badge/-ezequielmuxito@.tech-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ezequielmuxito@.tech)](mailto:ezequielmuxito@.tech) 
 
-- 🔭 I'm back-end developer with dot.Net Core (C#) technology.
+- 💻 I'm back-end developer with dot.Net Core (C#) technology.
 - 🎓 Postgraduate course in data science
 
 
