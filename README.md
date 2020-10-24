@@ -31,3 +31,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/ezekiel9m/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezekiel9m&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezekiel9m&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true)](https://github.com/ezekiel9m/)
+
