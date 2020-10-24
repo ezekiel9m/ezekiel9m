@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+## &#x1f4c8; GitHub Stats
 <a href="https://github.com/ezekiel9m/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezekiel9m&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
@@ -28,10 +29,6 @@ Here are some ideas to get you started:
 
 
 ![Profile views](https://gpvc.arturio.dev/Souravdey777?&link=https://ezekiel9m.github.io/)
-
-
-## &#x1f4c8; GitHub Stats
-
 
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezekiel9m&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true)](https://github.com/ezekiel9m/)
