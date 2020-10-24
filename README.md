@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<a href="https://github.com/ezekiel9m/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezekiel9m&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 -->
 
 ## Hey, I'm Ezequiel Muxito! 👋🏾 
@@ -28,9 +32,7 @@ Here are some ideas to get you started:
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/ezekiel9m/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezekiel9m&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezekiel9m&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true)](https://github.com/ezekiel9m/)
 
